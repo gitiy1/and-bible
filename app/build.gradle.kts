@@ -227,7 +227,7 @@ android {
 
         create("github") {
             dimension = dimDistributionChannelName
-            minSdk = 21
+            minSdk = 19
         }
     }
 
